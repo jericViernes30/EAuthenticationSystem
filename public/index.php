@@ -36,7 +36,7 @@
                     <div class="flex-grow-0 mx-5 text-xs text-gray-500">OR</div>
                     <div class="flex-grow bg bg-gray-300 h-1"></div>
                 </div>
-                <form class="flex flex-col" action="">
+                <form class="flex flex-col" action="home.php">
                     <input type="email" name="email" placeholder="example@gmail.com" class="w-full border rounded-3xl px-4 py-2 text-xs mb-3">
                     <input type="password" name="password" placeholder="Password" class="w-full border rounded-3xl px-4 py-2 text-xs mb-3">
                     <div class="w-full flex text-xs justify-between mb-5">
